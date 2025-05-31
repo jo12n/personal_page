@@ -1,2 +1,2 @@
 # personal_page
-Personal page with information about me
+Personal page with information about myself
