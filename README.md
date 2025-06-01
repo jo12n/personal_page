@@ -28,7 +28,7 @@ forecasting.
 - **Machine learning** | With a strong theoretical background: Artificial neural networks, DImension reduciton, Random forest, Convolutional neural networks, Support vector machine...
 - **OS** | Linux
 - **Version Control** | Git
-- **Technical redaction** | $\LaTeX$, Markdown, Jupyter...
+- **Technical redaction** | LaTeX, Markdown, Jupyter...
 - **Databases** | SQL
 
 ## Soft skills
@@ -43,4 +43,9 @@ forecasting.
 Accessed: 2024-07-15, 2025. DOI: [10.36227/techrxiv.174494666.69176037/v1](https://doi.org/10.36227/techrxiv.174494666.69176037/v1)
 2. David Campos-Abad, Ignacio Jolin-Rodrigo, and Clara Soler-Signes, “Introduction to knot theory,” in XI
 Congreso del Máster en Investigación Matemática y Doctorado en Matemáticas, Universitat de València, Spain, 2024,
-pp. 21–25. https://imm.webs.upv.es/invesmat/2024_Investmat.pdf
+pp. 21–25. URL: [https://imm.webs.upv.es/invesmat/2024_Investmat.pdf](https://imm.webs.upv.es/invesmat/2024_Investmat.pdf)
+
+## Contact
+- Email: ignaciojolin@gmail.com
+- Phone: +34644389417
+- Linkedin: [Ignacio Jolín Rodrigo](www.linkedin.com/in/ignacio-jolín-rodrigo-97451a236)
