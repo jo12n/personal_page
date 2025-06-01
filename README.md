@@ -31,7 +31,7 @@ forecasting.
 - **Technical redaction** | $\LaTeX$, Markdown, Jupyter...
 - **Databases** | SQL
 
-## Soft skills**
+## Soft skills
 - Abstract problem resolution
 - Effective communication
 - Quick learning ability
