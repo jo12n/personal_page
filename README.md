@@ -48,4 +48,4 @@ pp. 21–25. URL: [https://imm.webs.upv.es/invesmat/2024_Investmat.pdf](https://
 ## Contact
 - Email: ignaciojolin@gmail.com
 - Phone: +34644389417
-- Linkedin: [Ignacio Jolín Rodrigo](www.linkedin.com/in/ignacio-jolín-rodrigo-97451a236)
+- Linkedin: [Ignacio Jolín Rodrigo](https://linkedin.com/in/ignacio-jolín-rodrigo-97451a236)
