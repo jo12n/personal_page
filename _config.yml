@@ -2,4 +2,4 @@ title: Ignacio Jolín
 logo: /assets/img/foto_cv.png
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: "jekyll/minima@1e8a445"
