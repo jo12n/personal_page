@@ -1,7 +1,5 @@
 title: Ignacio Jolín
-logo: 
-  path: /assets/img/foto_cv.png
-  width: 100
+logo: /assets/img/foto_cv.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
