@@ -7,7 +7,7 @@
 
 ## Final thesis
 - **Bachelor's Thesis** | [Lema de Sperner y topología simplicial](https://uvadoc.uva.es/handle/10324/63202) (2023)
-- **Master's Thesis** | [Clasificación de series temporales empleando análisis topológico de datos](https://riunet.upv.es/entities/publication/2b92e076-3eed-44de-9bac-0ccc94b49b3a) (2024)
+- **Master's Thesis** | [Clasificación de series temporales empleando análisis topológico de datos](https://riunet.upv.es/handle/10251/210927) (2024)
 
 ## Work experience
 **SW and Technology Department at Renault I+D+i, Valladolid (September 2024 - June 2025)**
@@ -17,7 +17,8 @@ forecasting.
 - Created technical documentation using Jupyter Notebooks and Markdown.
 
 ## Personal projects
-- **Reinforcement learning agent** | A DQN agent that navigates a square toward a target circle on the screen avoiding obstacles (Git: [reinforcement-learning](https://github.com/jo12n/reinforcement_learning))
+- **GPT form scratch** | In this repository, I explain most of the mathematical concepts from a GPT model, explaining how the transformers and other concepts works (Git: [reinforcement-learning](https://github.com/jo12n/reinforcement_learning)) 
+- **Reinforcement learning agent** | A DQN agent that navigates a square toward a target circle on the screen avoiding obstacles (Git: [GPT_from_scratch](https://github.com/jo12n/GPT_from_scratch))
 - **Dimension reduction theory** |  Jupiter file with the theory of the main dimension reduction algorithms (Git: [dimension-reduction-theory](https://github.com/jo12n/dimension_reduction_theory.git))
 - **Data science tips** Jupiter file some tips for data science and practical examples (Git: [data-science-tips](https://github.com/jo12n/data_science_tips.git))
 
@@ -28,10 +29,10 @@ forecasting.
 - **Machine learning** | With a strong theoretical background: Artificial neural networks, DImension reduciton, Random forest, Convolutional neural networks, Support vector machine...
 - **OS** | Linux
 - **Version Control** | Git
-- **Technical redaction** | LaTeX, Markdown, Jupyter...
+- **Technical redaction** | $\LaTeX$, Markdown, Jupyter...
 - **Databases** | SQL
 
-## Soft skills
+## Soft skills**
 - Abstract problem resolution
 - Effective communication
 - Quick learning ability
@@ -43,9 +44,4 @@ forecasting.
 Accessed: 2024-07-15, 2025. DOI: [10.36227/techrxiv.174494666.69176037/v1](https://doi.org/10.36227/techrxiv.174494666.69176037/v1)
 2. David Campos-Abad, Ignacio Jolin-Rodrigo, and Clara Soler-Signes, “Introduction to knot theory,” in XI
 Congreso del Máster en Investigación Matemática y Doctorado en Matemáticas, Universitat de València, Spain, 2024,
-pp. 21–25. URL: [https://imm.webs.upv.es/invesmat/2024_Investmat.pdf](https://imm.webs.upv.es/invesmat/2024_Investmat.pdf)
-
-## Contact
-- Email: ignaciojolin@gmail.com
-- Phone: +34644389417
-- Linkedin: [Ignacio Jolín Rodrigo](https://linkedin.com/in/ignacio-jolín-rodrigo-97451a236)
+pp. 21–25. https://imm.webs.upv.es/invesmat/2024_Investmat.pdf
